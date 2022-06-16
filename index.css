@@ -1,0 +1,65 @@
+* {
+    font-family: monospace;
+  }
+  body {
+    background-color: #f0f0f0;
+    font-family: monospace;
+  }
+  #main {
+    font-family: american-typewriter;
+  }
+  #topbox {
+    background: ivory;
+    max-width: 900px;
+    margin: auto;
+  }
+  #title {
+    text-align: center;
+    position: relative;
+    top: 10px;
+    font-size: 40px;
+    font-family: Courier New, monospace;
+  }
+  #sub-title {
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+    font-size: 30px;
+  }
+  #img-div {
+    text-align: center;
+  }
+  #image {
+    max-width: 100%;
+    max-height: auto;
+    display: block;
+    margin: auto;
+  }
+  #tribute-info {
+    text-align: center;
+    background: #dcdcf5;
+    max-width: 900px;
+    margin: auto;
+    font-size: 20px;
+  }
+  #highlights-headline {
+    text-align: center;
+    font-size: 30px;
+  }
+  #talking-heads-box {
+    background: ivory;
+    padding: 5px;
+    display: flex;
+    max-width: 900px;
+    margin: auto;
+  }
+  #talking-info {
+    width: 50%;
+  }
+  #talking-music {
+    width: 50%;
+  }
+  #footer {
+    text-align: center;
+  }
+  
